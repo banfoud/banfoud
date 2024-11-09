@@ -7,7 +7,7 @@ Welcome to my GitHub! I’m an AI engineer dedicated to developing advanced AI s
 - 🌱 Currently exploring: Advanced NLP strategies and Large Language Models (LLM)
 - 👥 Open to collaborations on AI-driven projects and innovative data science initiatives
 - 💬 Ask me about: AI, Data Science, LLM, NLP, Agile Methodologies
-- ⚡ Fun fact: Passionate about volleyball and football
+- ⚡ Fun fact: Passionate about Gaming, finance and football
 
 ### 🛠️ Skills & Tools
 - **Languages:** Python, SQL, Bash, MATLAB, C, Java
