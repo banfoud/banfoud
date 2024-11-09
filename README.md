@@ -1,5 +1,5 @@
 # 💫 About Me
-## 🧠 AI Engineer | 🤖 Data Scientist | 💻 LLM Specialist
+## 🧠 AI Engineer | 🤖 Data Scientist | 💻 LLM Enthusiast
 
 Welcome to my GitHub! I’m an AI engineer dedicated to developing advanced AI solutions and generating data-driven insights. With expertise across AI and DevOps, I have end-to-end experience in the design, development, and deployment of complex data science projects.
 
